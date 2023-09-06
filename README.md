@@ -1,10 +1,13 @@
 # Secret Chamber Console Game
 
  <b>Authors</b>
+
   [Bárbara Carvajal](https://github.com/BarbaraCarvajal)
 <br />
+
 [Luis Zenteno](https://github.com/LuisZentenxx)
 <br />
+
 [María-Fernanda Villalobos](https://github.com/MariferVL)
 <br/>
 
