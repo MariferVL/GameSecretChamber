@@ -2,22 +2,20 @@
 
  <b>Authors</b>
 
-  [Bárbara Carvajal](https://github.com/BarbaraCarvajal)
-<br />
-
-[Luis Zenteno](https://github.com/LuisZentenxx)
-<br />
-
+  [Bárbara Carvajal](https://github.com/BarbaraCarvajal)<br/>
+[Luis Zenteno](https://github.com/LuisZentenxx)<br/>
 [María-Fernanda Villalobos](https://github.com/MariferVL)
+<br/>
 <br/>
 
 <img width="300px" src="https://github.com/MariferVL/GameSecretChamber/assets/99364311/51c1e97c-87e8-453e-b47b-04571b4f12ba">
 
-
+<br/>
 <br/>
     <a href="https://github.com/MariferVL/GameSecretChamber" target="_blank"><strong>Docs Access »</strong></a>
 <br/>
      <a href="https://replit.com/@marifervl/CamaraSecreta-Juego" target="_blank"><strong>Deployment Access »</strong></a>
+<br/>
 <br/>
 
 ## Introduction
